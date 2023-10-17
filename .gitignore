@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+cat-and-dog-images-dataset/
+Lib/
+data/
+models/
+__pycache__
+share/
+Scripts/
+archive.zip
